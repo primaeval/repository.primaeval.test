@@ -1,0 +1,8 @@
+version 0.0.3
+- export channel mappings to userdata\addon_data\plugin.video.addons.ini.player\export.ini
+
+version 0.0.2
+- Channels
+
+version 0.0.1
+- first release

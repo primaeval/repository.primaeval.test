@@ -1,0 +1,26 @@
+Version 0.0.9
+- subtitles setting
+- autoplay default on
+
+Version 0.0.8
+- colours
+
+Version 0.0.7
+- channel a-z
+- paging
+
+Version 0.0.6
+- date and plot
+
+Version 0.0.4-5
+- 50fps catchup hls fix
+
+Version 0.0.3
+- mpeg-dash
+- 50fps catchup hls
+
+Version 0.0.2
+- schedules
+
+Version 0.0.1
+- first release

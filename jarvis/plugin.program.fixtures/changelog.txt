@@ -1,0 +1,49 @@
+version 0.0.20-21
+- timezone fix
+
+version 0.0.19
+- new icon
+
+version 0.0.16-18
+- Settings \ Stop After Autoplay
+
+version 0.0.15
+- basic AutoPlay (won't work on Kodi restart)
+- Settings \ Hide Unplayable Matches
+
+version 0.0.12-14
+- channels menu
+
+version 0.0.11
+- favourites fix
+
+version 0.0.10
+- non-english language pvr fix
+
+version 0.0.9
+- timezone
+
+version 0.0.8
+- stream from Favourites
+- addons.ini not necessary
+- addon names in Browse
+
+version 0.0.7
+- alternative streaming method (channel context menu)
+
+version 0.0.6
+- pvr streams
+- clear stream
+
+version 0.0.5
+- playlist
+- import/export channel mappings
+
+version 0.0.4
+- browse for channel
+
+version 0.0.2-3
+- choose channel
+
+version 0.0.1
+- on your marks
