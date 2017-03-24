@@ -13,6 +13,11 @@
             <checksum>https://github.com/primaeval/repository.primaeval.test/raw/master/jarvis/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.github.com/primaeval/repository.primaeval.test/master/jarvis/</datadir>
         </dir>
+        <dir minversion="17.0.0">
+            <info compressed="false">https://github.com/primaeval/repository.primaeval.test/raw/master/krypton/addons.xml</info>
+            <checksum>https://github.com/primaeval/repository.primaeval.test/raw/master/krypton/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.github.com/primaeval/repository.primaeval.test/master/krypton/</datadir>
+        </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
